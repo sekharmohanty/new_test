@@ -1,0 +1,79 @@
+[33mcommit 6d7c9042196b50791e7414be5d9cd477d8cef1a3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 16:24:06 2023 +0530
+
+    add even
+
+[33mcommit f363edea42b6554086fb5e036e532b66d3990c5b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ssmohanty <98096473+sekharmohanty@users.noreply.github.com>
+Date:   Fri Sep 1 16:17:40 2023 +0530
+
+    Update test.py
+
+[33mcommit 11c2a57b2d1cede49306d32dfaf2c03816760cf7[m[33m ([m[1;31morigin/dev_a[m[33m)[m
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 16:13:03 2023 +0530
+
+    adding mul
+
+[33mcommit a0e00e26501424b908d786aa98d41c064df0a3a6[m
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 16:11:08 2023 +0530
+
+    adding test1
+
+[33mcommit 92e34ec8ab7101b3bd433efed77fa8acf1ce8b7c[m
+Merge: 9157259 c8fa9a5
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 14:31:30 2023 +0530
+
+    modify
+
+[33mcommit c8fa9a5b7de25d60acfeb64d910d32d8fb67a4b6[m[33m ([m[1;31morigin/developer_b[m[33m)[m
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 14:10:48 2023 +0530
+
+    add mul story
+
+[33mcommit 91572599271aa02ce7609a3d62d294f8f8c791e4[m
+Merge: bb350fe 4361f0d
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 14:03:14 2023 +0530
+
+    some changes on test
+
+[33mcommit bb350fe59686b730f82df1d15c8d66781222b410[m
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 13:59:33 2023 +0530
+
+    some changes
+
+[33mcommit 4361f0d26d8c2b03c9f1a916e1c271211208d44e[m
+Author: ssmohanty <98096473+sekharmohanty@users.noreply.github.com>
+Date:   Fri Sep 1 13:51:08 2023 +0530
+
+    Update test.py
+
+[33mcommit 913be185bde0bd9248c268d7bdc518f5c418cc0e[m
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 13:43:39 2023 +0530
+
+    added test1.py
+
+[33mcommit 459ae8d26e7ffa7b7e069d3bce3dc2238c23fbaa[m
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 13:30:55 2023 +0530
+
+    developer_a story
+
+[33mcommit 6257357ca5e3b522a3b381dee645cc83c8f4d461[m
+Author: ssmohanty <98096473+sekharmohanty@users.noreply.github.com>
+Date:   Fri Sep 1 13:07:36 2023 +0530
+
+    Create .gitignore
+
+[33mcommit c8eb782592e12466bd84828b3a8cd0bdecc824a0[m
+Author: sekharmohanty <ssmohanty0.22@gmail.com>
+Date:   Fri Sep 1 12:50:25 2023 +0530
+
+    my first commit
