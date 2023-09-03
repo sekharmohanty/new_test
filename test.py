@@ -5,3 +5,4 @@ def substraction(a,c):
     return a-c
 
 a = 4
+b = 5
