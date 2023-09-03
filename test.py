@@ -6,3 +6,5 @@ def substraction(a,c):
 
 a = 4
 b = 5
+e = 6
+f = 7
