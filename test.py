@@ -3,3 +3,5 @@ def addition(a,b):
 
 def substraction(a,c):
     return a-c
+
+a = 4
